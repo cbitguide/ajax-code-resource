@@ -1,0 +1,76 @@
+ul li {
+	list-style: none !important;
+}
+
+.loginDiv {
+	width: 1180px;
+	margin: 0 auto;
+}
+
+.loginPart {
+	background: #ffffff;
+	padding: 12px 45px 27px;
+}
+
+.loginTitle {
+	height: 70px;
+	line-height: 70px;
+}
+
+.loginTitleSpan {
+	font-size: 20px;
+	float: left;
+	color: #333333;
+}
+
+.loginPart li {
+	position: relative !important;
+	padding-bottom: 20px !important;
+	height: 44px !important;
+	line-height: 44px !important;
+}
+
+.loginInputStyle {
+	width: 268px;
+	height: 42px;
+	font-size: 14px;
+	color: #333333;
+	text-indent: 38px;
+	border: 1px solid #c8c8c8;
+}
+
+#logonUser {
+	background: url("../img/logon/account.png") 11px center no-repeat;
+}
+
+#code {
+	background: url("../img/logon/password.png") 11px center no-repeat;
+}
+
+.remindP {
+	height: 34px;
+}
+
+.forgetA {
+	font-size: 14px;
+	color: #00a5f0;
+}
+
+.forgetA:hover {
+	color: #1093cf;
+}
+
+.loginBtn {
+	width: 270px;
+	height: 44px;
+	color: #ffffff;
+	font-size: 14px;
+	text-align: center;
+	background: #00a5f0;
+	cursor: pointer;
+	border: 0;
+}
+
+.loginBtn:hover {
+	background: #1093cf;
+}
